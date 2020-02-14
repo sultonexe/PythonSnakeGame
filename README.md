@@ -11,7 +11,7 @@ Snake Game Make Using Python3 by SultonExe @2019
 </ul>
 
 
-<font color="red"><b>(Di Windows Coming Soon)</b></font>
+<font style="color: red;"><b>(Di Windows Coming Soon)</b></font>
 
 # About The Project 
 Name : Snake Game <br>
