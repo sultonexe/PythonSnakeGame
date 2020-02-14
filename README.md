@@ -1,7 +1,7 @@
 # PythonSnakeGame
 Snake Game Make Using Python3 by SultonExe @2019
 
-<img src="https://banner2.cleanpng.com/20181115/ttc/kisspng-programming-python-logo-programming-language-compu-data-analysis-course-st-hua-private-school-5bedd96a011543.8733544715423143460044.jpg">
+<img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg">
 
 # Cara Install Game
 (Di Linux)
