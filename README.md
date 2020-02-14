@@ -8,9 +8,9 @@ Snake Game Make Using Python3 by SultonExe @2019
 sudo apt-get install python3
 sudo apt install python3-tk
 
-(Di Windows Coming Soon)
+<font color="red"><b>(Di Windows Coming Soon)</b></font>
 
-About The Project <br>
+# About The Project 
 Name : Snake Game <br>
 Made with : Python Programming Language <br>
 Dev : @sulton.exe <br>
