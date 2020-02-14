@@ -4,9 +4,12 @@ Snake Game Make Using Python3 by SultonExe @2019
 <img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg">
 
 # Cara Install Game
-(Di Linux)
-sudo apt-get install python3
-sudo apt install python3-tk
+<h4>(Di Linux)</h4>
+<ul>
+  <li>sudo apt-get install python3</li>
+  <li>sudo apt install python3-tk</li>
+</ul>
+
 
 <font color="red"><b>(Di Windows Coming Soon)</b></font>
 
